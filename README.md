@@ -1,7 +1,4 @@
-# Hi, I'm Archish 👋
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archish-prakhya-990543215/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:archishprakhya@gmail.com)
+# Hi, I'm Archish 👋 [![LinkedIn](https://img.shields.io/badge/-eee?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/archish-prakhya-990543215/)
 
 Data Science (Honors) student at UC San Diego, transferring from UC Santa Barbara (Honors, GPA 3.8), focused on spatial analysis, applied machine learning, and mechanistic interpretability.
 
@@ -53,11 +50,11 @@ I'm especially interested in geospatial and satellite-driven ML, AI safety, and 
 
 ### 📄 Publications & Research
 
-[![Publication](https://img.shields.io/badge/ICLR%202026-PUBLICATION-004488?style=for-the-badge)](https://openreview.net/forum?id=090uAxA30b)
+[![Publication](https://img.shields.io/badge/ICLR%202026-PUBLICATION-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://openreview.net/forum?id=090uAxA30b)
 
 **Decoding Logical Negation in LLMs** — Sparse autoencoder–based mechanistic interpretability research, co-authored and presented at ICLR 2026.
 
-![Research](https://img.shields.io/badge/NEURIPS%202026-RESEARCH-004488?style=for-the-badge)
+![Research](https://img.shields.io/badge/NEURIPS%202026-RESEARCH-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)
 
 **Contrastive Generative Paths (CGP)** — Inference-time jailbreak defense using dual generation paths and logit biasing, targeting NeurIPS 2026.
 
