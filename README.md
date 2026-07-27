@@ -5,7 +5,7 @@
 
 Data Science (Honors) student at UC San Diego, transferring from UC Santa Barbara (Honors, GPA 3.8), focused on spatial analysis, applied machine learning, and mechanistic interpretability.
 
-I'm interested in geospatial and satellite-driven ML, AI safety, and the intersection of research and mission-critical data systems.
+I'm interested in geospatial and satellite-driven ML, AI safety, and the intersection of research and mission-critical data systems which support advancements in healthcare, society, and space.
 
 ---
 
