@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archish-prakhya-990543215/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:archishprakhya@gmail.com)
 
-**B.S. Data Science (Honors), UC San Diego** — Class of 2028 · Transfer from UC Santa Barbara (Honors, GPA 3.8)
+Data Science (Honors) student at UC San Diego, transferring from UC Santa Barbara (Honors, GPA 3.8), focused on spatial analysis, applied machine learning, and mechanistic interpretability.
 
-Working across spatial analysis, applied machine learning, and mechanistic interpretability — in defense, federal research, and AI safety.
+I'm especially interested in geospatial and satellite-driven ML, AI safety, and the intersection of research and mission-critical data systems.
 
 ---
 
@@ -30,20 +30,32 @@ Working across spatial analysis, applied machine learning, and mechanistic inter
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Focus areas:** Spatial Analysis · Applied ML · Mechanistic Interpretability · AI Safety · Data Pipelines · Statistical Testing · NLP
 
 ---
 
 ### 📌 Featured Projects
 
-- **[REACHers API Project](https://github.com/Teku-Guy/REACHers_API_Project)** — contributed via pull request
-- **[SFB Pretailoring Tool](https://github.com/Teku-Guy/sfb-pretailoring-tool)** — contributed via pull request
-- **Contrastive Generative Paths (CGP)** — inference-time LLM jailbreak defense, targeting NeurIPS 2026
-- **Decoding Logical Negation in LLMs** — sparse autoencoder interpretability research, ICLR 2026
+![Project](https://img.shields.io/badge/GITHUB-REACHERS%20API-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
+
+**[REACHers API Project](https://github.com/Teku-Guy/REACHers_API_Project)** — Contributed via pull request to a collaborative API project.
+
+![Project](https://img.shields.io/badge/GITHUB-SFB%20PRETAILORING-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
+
+**[SFB Pretailoring Tool](https://github.com/Teku-Guy/sfb-pretailoring-tool)** — Contributed via pull request.
+
+![Project](https://img.shields.io/badge/RESEARCH-CGP-1a1a1a?style=for-the-badge)
+
+**Contrastive Generative Paths (CGP)** — Inference-time jailbreak defense using dual generation paths and logit biasing, targeting NeurIPS 2026.
+
+![Project](https://img.shields.io/badge/ICLR%202026-PUBLICATION-1a1a1a?style=for-the-badge)
+
+**Decoding Logical Negation in LLMs** — Sparse autoencoder–based mechanistic interpretability research, co-authored and presented at ICLR 2026.
 
 ---
 
