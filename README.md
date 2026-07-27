@@ -41,21 +41,25 @@ I'm especially interested in geospatial and satellite-driven ML, AI safety, and 
 
 ### 📌 Featured Projects
 
-![Project](https://img.shields.io/badge/GITHUB-REACHERS%20API-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
+[![Project](https://img.shields.io/badge/PROJECT-REACHERS%20API-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teku-Guy/REACHers_API_Project)
 
-**[REACHers API Project](https://github.com/Teku-Guy/REACHers_API_Project)** — Contributed via pull request to a collaborative API project.
+**REACHers API Project** — Contributed via pull request to a collaborative API project.
 
-![Project](https://img.shields.io/badge/GITHUB-SFB%20PRETAILORING-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
+[![Project](https://img.shields.io/badge/PROJECT-SFB%20PRETAILORING-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teku-Guy/sfb-pretailoring-tool)
 
-**[SFB Pretailoring Tool](https://github.com/Teku-Guy/sfb-pretailoring-tool)** — Contributed via pull request.
+**SFB Pretailoring Tool** — Contributed via pull request.
 
-![Project](https://img.shields.io/badge/RESEARCH-CGP-1a1a1a?style=for-the-badge)
+---
 
-**Contrastive Generative Paths (CGP)** — Inference-time jailbreak defense using dual generation paths and logit biasing, targeting NeurIPS 2026.
+### 📄 Publications & Research
 
-![Project](https://img.shields.io/badge/ICLR%202026-PUBLICATION-1a1a1a?style=for-the-badge)
+[![Publication](https://img.shields.io/badge/ICLR%202026-PUBLICATION-004488?style=for-the-badge)](https://openreview.net/forum?id=090uAxA30b)
 
 **Decoding Logical Negation in LLMs** — Sparse autoencoder–based mechanistic interpretability research, co-authored and presented at ICLR 2026.
+
+![Research](https://img.shields.io/badge/NEURIPS%202026-RESEARCH-004488?style=for-the-badge)
+
+**Contrastive Generative Paths (CGP)** — Inference-time jailbreak defense using dual generation paths and logit biasing, targeting NeurIPS 2026.
 
 ---
 
