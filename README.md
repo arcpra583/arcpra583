@@ -53,20 +53,13 @@ I'm interested in geospatial and satellite-driven ML, AI safety, and the interse
 
 ### 📄 Publications & Research
 
-[![Publication](https://img.shields.io/badge/ICLR%202026-PUBLICATION-4B2E83?style=for-the-badge&logo=googlescholar&logoColor=white)](https://openreview.net/forum?id=090uAxA30b)
+[![Publication](https://img.shields.io/badge/ICLR%202026-PUBLICATION-1565C0?style=for-the-badge&logo=googlescholar&logoColor=white)](https://openreview.net/forum?id=090uAxA30b)
 
 **Decoding Logical Negation in LLMs** — Sparse autoencoder–based mechanistic interpretability research, co-authored and presented at ICLR 2026.
 
-![Research](https://img.shields.io/badge/NEURIPS%202026-RESEARCH-4B2E83?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Research](https://img.shields.io/badge/NEURIPS%202026-RESEARCH-1565C0?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 **Contrastive Generative Paths (CGP)** — Inference-time jailbreak defense using dual generation paths and logit biasing, targeting NeurIPS 2026.
-
----
-
-### 📊 GitHub Stats
-
-![Archish's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcpra583&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arcpra583&layout=compact&theme=default&hide_border=true)
 
 ---
 
